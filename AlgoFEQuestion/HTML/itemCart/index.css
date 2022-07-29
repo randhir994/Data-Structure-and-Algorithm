@@ -1,0 +1,14 @@
+body {}
+
+caption,
+table {
+    background: lightgray;
+}
+
+caption {
+    padding-top: 1rem;
+}
+
+table {
+    padding: 1rem 2rem;
+}

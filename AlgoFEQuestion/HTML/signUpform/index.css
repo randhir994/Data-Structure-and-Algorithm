@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    height: 100vh;
+}
+
+form {
+    padding: 10rem;
+    justify-content: center;
+    align-items: center;
+    background: lightgoldenrodyellow;
+}

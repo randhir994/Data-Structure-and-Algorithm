@@ -1,0 +1,3 @@
+function mininumSwapLessThanK(arr,k){
+
+}
